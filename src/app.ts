@@ -34,7 +34,7 @@ app.get("/", (req, res) => {
         <title>Home</title>
       </head>
       <body>
-        <h1>Welcome to my server 2.0 heheheheheheeh</h1>
+        <h1>Welcome to my server 2.0</h1>
         <p>This is HTML response from Express</p>
         <a href="/success">Success</a>
         <a href="/error">error</a>
